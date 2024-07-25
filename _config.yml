@@ -1,18 +1,18 @@
 ### Site metadata
 
 # Don't make the title longer than this, otherwise it gets covered in mobile view.
-title: Jekyll Blog Demo
-description: Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages
+title: Muhammad's Blog
+description: Static blog - built with Jekyll and GitHub Pages
 
-email:
+email: muhammad.jazman@gmail.com
 twitter_username:
-github_username: MichaelCurrin
+github_username: muhammadjazman
 rss: RSS
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+url: https://muhammadjazman.github.io
+baseurl: /
 
 permalink: pretty
 
